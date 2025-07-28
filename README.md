@@ -15,6 +15,8 @@ This model uses 1.5 Billion parameters and takes almost 15 to 20 times more time
 # kaggle dataset link
 https://www.kaggle.com/datasets/nelgiriyewithana/emotions
 
+# link to my Project: https://colab.research.google.com/drive/15mHp6cDCLUGqxvn08T6czF_CNGifXb-x?usp=sharing
+
 
 
 
